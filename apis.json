@@ -1,0 +1,50 @@
+{
+    "name": "Shared Workforce",
+    "description": "On-demand human intelligence to analyze and moderate content. Add a few lines of code to your app and send text or images to our team of workers.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1474-shared-workforce.jpg",
+    "tags": [
+        "editing",
+        "have api",
+        "intelligence",
+        "workforce management"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/shared-workforce\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Shared Workforce",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1474-shared-workforce.jpg",
+            "humanURL": "http:\/\/www.sharedworkforce.com\/docs\/rest",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/shared-workforce-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.sharedworkforce.com\/docs\/rest"
+        },
+        {
+            "type": "Email",
+            "url": "help@sharedworkforce.com"
+        },
+        {
+            "type": "Email",
+            "url": "erica@sharedworkforce.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/SharedWorkforce"
+        }
+    ]
+}
